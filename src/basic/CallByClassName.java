@@ -8,7 +8,7 @@ public class CallByClassName {
 	
 	public static void  display(){
 		
-		System.out.println("Hi");
+		System.out.println("Hello");
 		
 		
 		
